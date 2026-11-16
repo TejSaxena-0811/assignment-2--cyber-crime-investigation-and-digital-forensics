@@ -16,7 +16,7 @@
 
 # Assignment 2 (Operation Hydra)
 
-This project is a cybersecurity investigation repository designed to analyze multi-vector digital threats, including email phishing, malware payloads, and financial fraud networks. This project organizes raw evidence, technical artifacts, analysis scripts, and final reporting into a structured investigation framework.
+This project is a cybersecurity investigation repository designed to analyze multi-vector digital threats, including email phishing, malware payloads, and financial fraud networks. This project organizes raw evidence, technical artifacts, analysis scripts, and final reporting into a structured investigation framework. Case-Study about spoofing, phishing, malware and financial fraud.
 
 ## Project Structure
 
